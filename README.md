@@ -40,7 +40,7 @@ project/
    ```
 4. Run the application:
    ```sh
-   python app.py
+   flask --app main_app.py run
    ```
 5. Open a browser and go to:
    ```
