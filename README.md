@@ -19,7 +19,7 @@ project/
 │   │   ├── Ee5ojPVfTis.jpg
 │── templates/
 │   ├── index.html
-│── app.py
+│── main_app.py
 │── README.md
 ```
 
