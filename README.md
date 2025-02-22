@@ -36,7 +36,7 @@ project/
    ```
 3. Install dependencies:
    ```sh
-   pip install flask
+   pip install -r requirements.txt
    ```
 4. Run the application:
    ```sh
