@@ -49,7 +49,6 @@ project/
 
 ## Profile Page (index.html)
 - Displays the user's name, profile picture, contact info, education, skills, work experience, and achievements.
-- Uses a structured layout with a sidebar and main content area.
 
 ## Technologies Used
 - **Frontend:** HTML, CSS
